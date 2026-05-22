@@ -2,7 +2,7 @@
   "accounts": [
     {
       "id": 1,
-      "handle": "username_twitter_lo",
+      "handle": "twitter_username_lo",
       "kucoin_uid": "12345678",
       "proxy": "",
       "cookies": {
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "handle": "username_twitter_acc2",
+      "handle": "twitter_username_acc2",
       "kucoin_uid": "87654321",
       "proxy": "http://user:pass@host:port",
       "cookies": {
