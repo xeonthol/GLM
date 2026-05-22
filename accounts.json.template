@@ -1,0 +1,24 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "handle": "username_twitter_lo",
+      "kucoin_uid": "12345678",
+      "proxy": "",
+      "cookies": {
+        "auth_token": "ISI_AUTH_TOKEN_DISINI",
+        "ct0": "ISI_CT0_DISINI"
+      }
+    },
+    {
+      "id": 2,
+      "handle": "username_twitter_acc2",
+      "kucoin_uid": "87654321",
+      "proxy": "http://user:pass@host:port",
+      "cookies": {
+        "auth_token": "ISI_AUTH_TOKEN_DISINI",
+        "ct0": "ISI_CT0_DISINI"
+      }
+    }
+  ]
+}

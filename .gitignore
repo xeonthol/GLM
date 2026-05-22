@@ -1,0 +1,17 @@
+# Sensitive data
+data/accounts.json
+data/used-handles.json
+
+# Logs & screenshots
+logs/
+screenshots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
